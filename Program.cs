@@ -16,6 +16,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // Call the method.
             myClass.MyMethod();
 
+            // Wait for user input.
+            Console.ReadLine();
+
+            //create a login object
+
+
+
         }
     }
 }
